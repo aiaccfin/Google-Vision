@@ -7,7 +7,7 @@ import requests
 from base64 import b64encode
 
 ENDPOINT_URL = 'https://vision.googleapis.com/v1/images:annotate'
-API_KEY = "AIzaSyB8jECh7Mri0-vzmnm8zSghiQvMcq6zVjA"
+API_KEY = "AIz"
 IMG_LOC = "rawbs_Page_2.jpg"
 
 # Function to prepare image data for the API request
